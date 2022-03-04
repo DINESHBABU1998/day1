@@ -26,11 +26,11 @@
 //     case "m":
 //     console.log("male");
 //     break;
-//     case "m":
-//     console.log("male");
+//     case "f":
+//     console.log("female");
 //     break;
-//     case "m":
-//     console.log("male");
+//     default:
+//     console.log("transgender");
 //     break;    
 // }
 //practice que 1
